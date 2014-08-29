@@ -1,0 +1,7 @@
+{
+    "require": {
+        "doctrine/migrations": "dev-master",
+        "symfony/console": "dev-master",
+        "symfony/yaml": "dev-master"
+    }
+}
