@@ -22,4 +22,4 @@ The config file must be referenced via absolute path (at least for my config fil
 I'd use this code as an example to implement your migration system. Its released under the MIT license. 
 
 ## Contact
-You can find me on Twitter @voltampmedia. Let me know if it helps.
+You can find me on Twitter [@voltampmedia](https://twitter.com/voltampmedia]. Let me know if it helps.
