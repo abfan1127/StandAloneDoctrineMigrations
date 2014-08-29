@@ -12,3 +12,9 @@ You will see that I actually am using this particular set of code for a CodeIgni
 
 ## Shell Script
 The config file must be referenced via absolute path (at least for my config file did). To work around that, and to properly remember all of the major commands, I wrote a helper bash script. Its not glamorous, it doesn't check for arg counts, but it does remind me of the proper commands and gives me quick helper commands. 
+
+## License
+I'd use this code as an example to implement your migration system. Its released under the MIT license. 
+
+## Contact
+You can find me on Twitter @voltampmedia. Let me know if it helps.
